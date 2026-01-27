@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mini-etl-nbdev"
+  site-url: "https://akshaysmmoser.github.io/mini-etl-nbdev"
+  description: "Small nbdev-based data engineering ETL project"
+  repo-branch: main
+  repo-url: "https://github.com/akshaysmmoser/mini-etl-nbdev"
