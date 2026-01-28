@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://akshaysmmoser.github.io',
                 'git_url': 'https://github.com/akshaysmmoser/mini-etl-nbdev',
                 'lib_path': 'mini_etl_nbdev'},
-  'syms': {'mini_etl_nbdev.core': {'mini_etl_nbdev.core.foo': ('core.html#foo', 'mini_etl_nbdev/core.py')}}}
+  'syms': { 'mini_etl_nbdev.core': {'mini_etl_nbdev.core.normalize_text': ('core.html#normalize_text', 'mini_etl_nbdev/core.py')},
+            'mini_etl_nbdev.testing': { 'mini_etl_nbdev.testing.normalize_text_upper': ( 'testing.html#normalize_text_upper',
+                                                                                         'mini_etl_nbdev/testing.py')}}}
